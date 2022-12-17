@@ -14,5 +14,5 @@ class myclass:
         print("contact:", self.contact)
         print("Mailid:",self.Mailid)
 obj=myclass()
-obj.myfun1("durai","python",21,2001,9500074044,"duraidurai77@gmail.com")
+obj.myfun1("durai","python",21,2001,900758855,"duraidurai7@gmail.com")
 obj.myfun2()
